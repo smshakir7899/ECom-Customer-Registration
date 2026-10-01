@@ -8,7 +8,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 import com.flipkart.customer.request.CustomerRequest;
-import com.flipkart.customer.request.CustomerResponse;
+import com.flipkart.customer.response.CustomerResponse;
 import com.flipkart.customer.service.CustomerService;
 
 import jakarta.validation.Valid;
